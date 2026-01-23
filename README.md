@@ -1,17 +1,17 @@
-<h1 align="center">Hola, soy Samael Medina - DevCode 👋</h1>
+<h1 align="center">Hola, soy Samael Medina - DevCode </h1>
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Software | Fullstack Developer en formación</strong><br>
   Apasionado por construir aplicaciones web eficientes y funcionales.
 </p>
 
-### 🚀 Sobre mí
+###  Sobre mí
 - 🎓 Actualmente cursando la Ingeniería en Software.
 - 🛠️ Me enfoco en el ecosistema **PHP (Laravel, Livewire, Alpine)** y **JavaScript (React, Next, TypeScript)**.
 - 💡 Me interesa el desarrollo de APIs robustas y la optimización de bases de datos.
 - 📚 Actualmente profundizando en **Docker** y patrones de diseño.
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 **Frontend**
 <p align="left">
@@ -43,5 +43,5 @@
 
 ---
 
-### 📫 Contacto
+###  Contacto
 [LinkedIn](https://www.linkedin.com/in/samael-medina-011880355/) | [Correo](mailto:samaelortiz2218@gmail.com) | [Portafolio](https://devcode-cyan.vercel.app/)
